@@ -1,0 +1,132 @@
+html {
+    display: block;
+} 
+
+.header {
+    width: 720px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 2px;
+    padding-bottom: 20px;
+    background-color: #ddd;
+    text-align: center;
+}
+head {
+    display: none;
+}
+div {
+    display: block;
+}
+meta {
+    display: none;
+}
+body {
+    font-family: Lora, serif;
+    display: block;
+
+}
+title {
+    display: none;
+}
+link {
+    display: none;
+}
+.headline-wrap {
+    width: 560px;
+    margin: 0 auto 50px auto;
+}
+.main-img {
+    margin-bottom: 30px;
+}
+.main-img img {
+    width: 100%;
+    height: 1000px;
+}
+.container, .headline-wrap {
+    width: 560px;
+    margin: 0 auto 50px auto;
+}
+.container p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+.byline {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+h2 {
+    font-size: 48px;
+    margin-top: 50px;
+    margin-bottom: 18px;
+}
+h2 {
+    display: block;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+ 
+}
+
+h3 {
+    font-style: italic;
+    font-size: 26px;
+    margin-bottom: 40px;
+    line-height: 1.3;
+    opacity: .5;
+}
+h3 {
+    display: block;
+    
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+ 
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.pl {
+  font-size: 38px;
+  width: 500px;
+  float: bottom;
+  padding-top: 30px;
+  padding-bottom: 30px; 
+  opacity: .6;
+}
+.quote-marks{
+  font-size: 3.25em;
+  margin: 0.205em 0.153em 0 0;
+
+
+}
+.article img {
+    width: 100%;
+    margin-bottom: 7px;
+}
+.caption {
+    font-style: italic;
+    opacity: .6;
+    margin-top: -10px;
+}
+
+
+.firstLetter{
+  float       : left;
+  font-size   : 3.26em;
+  line-height : 0.5em;
+  margin      : 0.205em 0.153em 0 0;
+}
+
+.firstLetter + span{
+  margin-left : -0.5em;
+}
+h3{
+    font-weight: bold;
+}
